@@ -1,0 +1,26 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        ".vscode": true,
+        ".npmrc": true,
+        ".svelte-kit": true,
+        "pnpm-lock.yaml": true,
+        "node_modules": true,
+        "postcss.config.cjs": true,
+        ".gitignore": true
+    },
+    "hide-files.files": [
+        ".vscode",
+        ".npmrc",
+        ".svelte-kit",
+        "pnpm-lock.yaml",
+        "node_modules",
+        "postcss.config.cjs",
+        ".gitignore"
+    ]
+}
